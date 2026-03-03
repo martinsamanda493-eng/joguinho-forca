@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: cornflowerblue;
+}
+
+h1{
+    color: #333;
+}
+
+#palavra {
+    font-size: 2em;
+    letter-spacing: 10px;
+}
+
+#mensagem{
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+button{
+    color: #ffffff;
+    background: #000000;
+}
+
+canvas{
+    border: 1px  #000000;
+    margin-bottom: 20px;
+}
